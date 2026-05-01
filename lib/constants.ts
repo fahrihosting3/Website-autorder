@@ -2,7 +2,7 @@ export const GITHUB_CONFIG = {
   owner: process.env.GITHUB_OWNER || 'Fahrihosting1',
   repo: process.env.GITHUB_REPO || 'database-bot',
   branch: process.env.GITHUB_BRANCH || 'main',
-  token: process.env.GITHUB_TOKEN || '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',
+  token: process.env.GITHUB_TOKEN || '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',
   dataPath: 'data/database.json',
 }
 
